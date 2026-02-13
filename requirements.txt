@@ -1,0 +1,8 @@
+ipykernel
+dotenv
+langchain
+langchain-community
+langchain-openai
+youtube-transcript-api
+google-genai
+streamlit

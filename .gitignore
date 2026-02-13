@@ -1,0 +1,13 @@
+# Python ignore
+__pycache__/
+*.py[cod]
+venv/
+.env
+.vscode/
+built_tool.py
+ollama.py
+prompt_template.json
+prompt_with_json.py
+prompt.py
+promptT.py
+rag.ipynb
